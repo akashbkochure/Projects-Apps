@@ -1,0 +1,7 @@
+target/
+data/
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints
